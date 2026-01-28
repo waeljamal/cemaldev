@@ -51,4 +51,4 @@ I enjoy building real projects, learning how things work under the hood, and con
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://waeljamal.github.io
