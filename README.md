@@ -1,15 +1,15 @@
-# Hi, I'm Cemal 👋
+# Hi, I'm Wael Jamal 👋
 
 🎓 Software Engineering Student  
-💻 C Programmer | Backend & Systems Enthusiast  
+💻 C Programmer | Systems & Backend Enthusiast  
 🏃 Professional Runner | 🥊 Boxing & MMA  
 🌍 Based in Türkiye  
 
 ---
 
 ## 🚀 About Me
-I am a software engineering student with a strong interest in low-level programming, problem solving, and system design.  
-I enjoy building real projects, learning how things work under the hood, and constantly improving my technical and physical performance.
+I am a software engineering student passionate about low-level programming, problem solving, and building efficient systems.
+I enjoy working close to the hardware, understanding how software works under the hood, and continuously improving my skills through real projects.
 
 ---
 
@@ -21,34 +21,35 @@ I enjoy building real projects, learning how things work under the hood, and con
 - JavaScript (basic)
 
 ### Computer Science
-- Data Structures & Algorithms
-- Memory Management
-- Object-Oriented Programming
-- Debugging & Problem Solving
+- Data Structures & Algorithms  
+- Memory Management  
+- Object-Oriented Programming  
+- Debugging & Problem Solving  
 
 ### Tools & Technologies
-- Git & GitHub
-- Linux (Terminal)
-- VS Code
+- Git & GitHub  
+- Linux (Terminal)  
+- VS Code  
 - SQL (MySQL / PostgreSQL)
 
 ---
 
 ## 📂 Projects
-🔹 CLI tools and system-level programs in C  
-🔹 University software engineering projects  
-🔹 Personal learning projects (algorithms, data structures)
+- System-level and CLI programs in C  
+- University software engineering projects  
+- Algorithm & data structure implementations  
 
-*(More projects coming — always learning 🚀)*
+*(More projects coming — consistent improvement 🚀)*
 
 ---
 
-## 🏃‍♂️ Discipline Outside Code
-- Professional long-distance runner
-- Boxing & MMA training
-- Strong mindset, consistency, and goal-driven work ethic
+## 🧠 Mindset & Discipline
+- Competitive athlete mindset
+- High consistency & self-discipline
+- Strong focus on long-term growth
 
 ---
 
 ## 📫 Contact
-- GitHub: https://waeljamal.github.io
+- 🌐 Website: https://waeljamal.github.io
+- 🐙 GitHub: https://github.com/waeljamal
